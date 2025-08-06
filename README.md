@@ -1,7 +1,4 @@
-<details> <summary><strong>Clique para ver/copiar o conteúdo do README.md</strong></summary>
-markdown
-Copiar
-Editar
+
 # 🧠 IA Analista de Negócios  
 🎯 Transforma perguntas em análises visuais completas em 30 segundos  
 
