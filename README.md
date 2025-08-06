@@ -2,7 +2,6 @@
 
 <div align="center">
   
-![Banner](https://via.placeholder.com/800x200/1a73e8/ffffff?text=IA+Analista+de+Negocios)
 
 ### 🎯 Transforma qualquer pergunta de negócio em análise visual completa em 30 segundos
 
