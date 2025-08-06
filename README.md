@@ -265,19 +265,6 @@ CUSTOM_PROMPTS = {
 
 ---
 
-## 🎯 **DEPOIMENTOS & CASOS**
-
-> ### 🏆 **"Revolucionou nossa tomada de decisão"**
-> *"Antes gastávamos uma manhã inteira preparando relatório para a diretoria. Hoje, com uma pergunta no sistema, temos tudo pronto em 30 segundos. Nossa equipe pode focar no que realmente importa: estratégia."*
-> 
-> **— Maria Silva, Diretora de BI, TechCorp**
-
-> ### 💰 **"ROI de 800% no primeiro ano"**  
-> *"Economizamos R$ 40.000 por mês só em horas de analistas. A precisão aumentou e as decisões ficaram muito mais rápidas. Investimento que se paga sozinho."*
-> 
-> **— Carlos Santos, CFO, RetailMax**
-
----
 
 ## 📞 **IMPLEMENTAR NA SUA EMPRESA?**
 
