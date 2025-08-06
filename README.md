@@ -79,7 +79,7 @@
   
 | 📊 **MÉTRICA** | 📉 **ANTES** | 📈 **DEPOIS** | 🚀 **MELHORIA** |
 |:---:|:---:|:---:|:---:|
-| ⏱️ **Tempo de Análise** | 6 horas | 30 segundos | **95% redução** |
+| ⏱️ **Tempo de Análise** | 6 horas | 30 segundos | **99,9% redução** |
 | 💰 **Custo por Relatório** | R$ 1.200 | R$ 50 | **96% economia** |
 | 🎯 **Precisão** | 85% | 98% | **+15% melhoria** |
 | 😊 **Satisfação Equipe** | 3/10 | 9/10 | **+200% aumento** |
