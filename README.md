@@ -66,4 +66,4 @@ KPIs automatizados
 Daniel Gomes Resende
 🧠 AI-Powered Product Builder
 📧 danielgomesresende@gmail.com
-🔗 (https://www.linkedin.com/in/danielgresende/)
+🔗 (https://www.linkedin.com/in/danielgresende)
