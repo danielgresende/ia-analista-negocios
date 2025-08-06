@@ -35,36 +35,41 @@ pip install -r requirements.txt
 
 # Executar
 streamlit run app.py
+```
 
-💻 Como Funciona
-Input Natural: "Qual produto vendeu mais este mês?"
+---
 
-Processamento IA: Converte em query SQL otimizada
+## 💻 Como Funciona
 
-Visualização: Gera gráfico profissional automaticamente
+1. **Input Natural**: "Qual produto vendeu mais este mês?"  
+2. **Processamento IA**: Converte em query SQL otimizada  
+3. **Visualização**: Gera gráfico profissional automaticamente  
 
-📸 screenshots/results_example.png
+📸 `screenshots/results_example.png`
 
-🛠️ Tecnologias Utilizadas
-LangChain – Processamento de linguagem natural
+---
 
-Pandas – Manipulação de dados
+## 🛠️ Tecnologias Utilizadas
 
-Plotly – Visualizações interativas
+- **LangChain** – Processamento de linguagem natural  
+- **Pandas** – Manipulação de dados  
+- **Plotly** – Visualizações interativas  
+- **Streamlit** – Interface web interativa  
 
-Streamlit – Interface web interativa
+---
 
-📊 Casos de Uso
-Relatórios executivos instantâneos
+## 📊 Casos de Uso
 
-Análise de vendas e performance
+- Relatórios executivos instantâneos  
+- Análise de vendas e performance  
+- Dashboards dinâmicos  
+- KPIs automatizados  
 
-Dashboards dinâmicos
+---
 
-KPIs automatizados
+## 📞 Contato
 
-📞 Contato
-Daniel Gomes Resende
-🧠 AI-Powered Product Builder
-📧 danielgomesresende@gmail.com
-🔗 https://www.linkedin.com/in/danielgresende/
+**Daniel Gomes Resende**  
+🧠 AI-Powered Product Builder  
+📧 danielgomesresende@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/danielgresende)
