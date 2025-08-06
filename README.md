@@ -35,6 +35,7 @@ pip install -r requirements.txt
 
 # Executar
 streamlit run app.py
+
 💻 Como Funciona
 Input Natural: "Qual produto vendeu mais este mês?"
 
@@ -66,4 +67,4 @@ KPIs automatizados
 Daniel Gomes Resende
 🧠 AI-Powered Product Builder
 📧 danielgomesresende@gmail.com
-🔗 https://www.linkedin.com/in/danielgresende
+🔗 https://www.linkedin.com/in/danielgresende/
