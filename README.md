@@ -64,11 +64,12 @@
 
 ---
 
-## 🧱 Estrutura do Projeto
-
-O sistema foi desenvolvido com arquitetura modular e escalável, com separação clara entre lógica de negócio, interface, banco de dados e testes automatizados:
+<details>
+<summary>📂 Clique para ver a estrutura completa do projeto</summary>
 
 ![Estrutura do projeto](https://github.com/danielgresende/ia-analista-negocios/blob/main/tree%20analista%20IA.png)
+
+</details>
 
 ---
 
